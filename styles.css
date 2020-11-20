@@ -158,6 +158,8 @@ section {
 
     .content-card {
         padding: 28px;
+        margin-left: 0;
+        margin-right: 0;
     }
 
     img {
