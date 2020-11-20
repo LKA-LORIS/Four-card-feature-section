@@ -106,7 +106,7 @@ section {
     border-radius: 8px;
     overflow: hidden;
     background-color: #fff;
-    box-shadow: 0 15px 30px rgba(131, 166, 210, 0.50)
+    box-shadow: 0 15px 30px -11px rgba(131, 166, 210, 0.50)
 }
 
 .content-card:before {
