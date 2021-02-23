@@ -8,7 +8,7 @@ Thanks for checking out this front-end coding challenge.
 
 ## Architecture
 
-- HTML5
+- ![logo html 5](./rd-html5.svg) HTML5
 - CSS3 (BEM)
 
 ## Deploying your project
